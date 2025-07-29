@@ -29,15 +29,6 @@ O conteúdo deste email é utilizado em campanhas reais, enviadas para a base de
 * **HTML5:** Para a estruturação do conteúdo.
 * **CSS3 (Inline):** Para toda a estilização visual.
 
-## 🚀 Como Utilizar
-
-Para usar este template em suas próprias campanhas, siga os passos abaixo:
-
-1.  Clone este repositório ou faça o download do arquivo `index.html`.
-2.  Abra o arquivo `index.html` em um navegador, clique com o botão direito e selecione "Exibir código fonte da página".
-3.  Copie todo o código HTML.
-4.  Cole o código no editor de HTML da sua ferramenta de email marketing preferida.
-5.  Altere os textos, imagens e links conforme sua necessidade e envie sua campanha!
 
 ## 👤 Autor
 
