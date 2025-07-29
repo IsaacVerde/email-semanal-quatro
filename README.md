@@ -5,7 +5,7 @@ O design foi pensado para ser moderno, elegante e confortável para a leitura em
 
 O conteúdo deste email é utilizado em campanhas reais, enviadas para a base de clientes através da plataforma Brevo.
 
-![Previa do email](https://res.cloudinary.com/db0ztiffv/image/upload/v1753806852/CAPA_EMAIL_ei0o4w.png)
+![Previa do email](https://res.cloudinary.com/db0ztiffv/image/upload/w_400/v1753806852/CAPA_EMAIL_ei0o4w.png)
 
 ✨ Destaques do Projeto
 Código Profissional para Email: Desenvolvido do zero, utilizando as boas práticas do mercado com <table>, <tr> e <td> para garantir máxima compatibilidade entre os mais diversos clientes de email (Gmail, Outlook, Apple Mail, etc.).
