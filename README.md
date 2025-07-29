@@ -9,7 +9,7 @@ O conteúdo deste email é utilizado em campanhas reais, enviadas para a base de
 ### [🔗 Veja o template em ação aqui](https://isaacverde.github.io/email-semanal-quatro/)
 
 <a href="https://isaacverde.github.io/email-semanal-quatro/" target="_blank">
-  <img src="https://res.cloudinary.com/db0r2tiffy/image/upload/w_680/v1753868852/CAPA_EMAIL_el0bdw.png" alt="Prévia do Template de Email" width="600">
+  <img src="https://res.cloudinary.com/db0r2tiffy/image/upload/w_680/v1753868852/CAPA_EMAIL_el0bdw.png" alt="Prévia do Template de Email">
 </a>
 
 ## ✨ Destaques do Projeto
